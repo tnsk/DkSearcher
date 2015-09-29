@@ -1,3 +1,5 @@
 # DkSearcher
 keyword based domain search
-is run ./fetch.sh domainkeyword
+how the run
+chmod +x fetch.sh
+./fetch.sh domainkeyword
